@@ -6,9 +6,8 @@
 </div>
 <div align=center>
 	<h2>프로젝트 제목</h2>
-
-	
-YouTube 
+	YouTube 
+	<br/>
 </div>
 <div align=center>
 	<h2>:pushpin: 프로젝트 소개 :pushpin:</h2>
