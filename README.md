@@ -1,26 +1,27 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=youtube%20clone&fontSize=90">
-	<img src = "https://user-images.githubusercontent.com/70482073/225856715-3e00e5e7-12c4-41ca-b372-051f06c61b92.png"/>
 </div>
-
+<div align=center>
+<img src = "https://user-images.githubusercontent.com/70482073/225856715-3e00e5e7-12c4-41ca-b372-051f06c61b92.png"/>
+</div>
 <div align=center>
 ## 프로젝트 제목
 
 YouTube 
-
-## :pushpin: 프로젝트 소개 :pushpin:
+</div>
+<div align=center>
+##:pushpin: 프로젝트 소개 :pushpin:
 
 Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 YouTube 앱을 만든다. 
-
+</div>
+<div align=center>
 ## 팀원 소개
 
 [김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
-
-<div align=center>
----
-	📚 기술 스택 
 </div>
-<div align="center">
+<div align=center>
+📚 ## 기술 스택 📚 
+
 
 	* <img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
 	* <img src="https://img.shields.io/badge/axios-purple?style=flat-square"/>
@@ -28,11 +29,13 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 	* <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 	* <img src="https://img.shields.io/badge/React%20Router%20Dom-white?style=flat-square&logo=ReactRouter&logoColor=black%22/%3E"/>
 	* <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-
+</div>
+<div align=center>
 ### 과제 진행 기간 
 
 2023.3.10 ~ 2023.3.16
-
+</div>
+<div align=center>
 ### :closed_book: 작업 영역 및 구현 기능 설명 :closed_book:
 
 * 김응열
@@ -47,7 +50,10 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 * 최우성 
   * SearchPage, SearchMain 구현
   * useState와 useEffect를 사용하여 검색어를 저장. 검색어는 useParams를 사용하여 URL에서 가져오고, 그 결과를 SearchMain 컴포넌트에 전달하여 화면에 출력하는 것을 구현
-  
+</div>
+
+
+<div align=center>
 ### 어려웠던 점
 
 * styled-components를 활용할 때 props 이용하여 modal을 열고 닫는 것과 반응형 구현하는 부분이 힘들었습니다.
