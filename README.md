@@ -15,8 +15,8 @@
 </div>
 <div align=center>
 <h2> 👤 팀원 소개 👤 </h2>
-	<a href="https://github.com/Valentin1495"> <img src="https://img.shields.io/badge/김응열-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a> | <a href="https://github.com/jangco97"> <img src="https://img.shields.io/badge/장건우-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a> | <br/>
-        <a href="https://github.com/No-answerday"> <img src="https://img.shields.io/badge/최우성-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a> | <a href="https://github.com/dochi-dev-tech"> <img src="https://img.shields.io/badge/이현정-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a>
+	<a href="https://github.com/Valentin1495"> <img src="https://img.shields.io/badge/김응열-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a> <a href="https://github.com/jangco97"> <img src="https://img.shields.io/badge/장건우-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a>
+        <a href="https://github.com/No-answerday"> <img src="https://img.shields.io/badge/최우성-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a> <a href="https://github.com/dochi-dev-tech"> <img src="https://img.shields.io/badge/이현정-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a>
 </div>
 <div align=center>
 <h2> 📚 기술 스택 📚 </h2>
