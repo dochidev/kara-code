@@ -7,21 +7,18 @@
 <div align=center>
 	<h2>프로젝트 제목</h2>
 	<b>YouTube</b>
-	<br/>	<br/> 	<br/>
+	<br/>	<br/>
 </div>
 <div align=center>
 	<h2>:pushpin: 프로젝트 소개 :pushpin:</h2>
-
-Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 YouTube 앱을 만든다. 
+	Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 YouTube 앱을 만든다. 
 </div>
 <div align=center>
 <h2> 👤 팀원 소개 👤 </h2>
-
-[김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
+	[김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
 </div>
 <div align=center>
 <h2> 📚 기술 스택 📚 </h2>
-
 
 * <img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
 * <img src="https://img.shields.io/badge/axios-purple?style=flat-square"/>
