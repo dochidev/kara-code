@@ -35,7 +35,7 @@
 2023.3.10 ~ 2023.3.16
 </div>
 <div align=center>
-<h2> 작업 영역 및 구현 기능 설명 :closed_book: </h2>
+<h2> ✏ 작업 영역 및 구현 기능 설명 ✏ </h2>
 
 * 김응열
   * 홈페이지 header와 sidebar, sidebar modal 구현
