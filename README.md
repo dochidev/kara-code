@@ -16,7 +16,7 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 </div>
 <div align=center>
 <h2> 팀원 소개 </h2>
-<hr>
+
 [김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
 </div>
 <div align=center>
@@ -64,3 +64,4 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 * api를 호출하면서 여러가지 오류들이 났었고 이를 해결하는 것이 어려웠습니다.
 또 api의 불필요한 호출을 최소화하는 것이나 내가 원하는 검색어만 가져오게 하는 것이 생각보다 까다로웠습니다. useState 나 useEffect 같은 Hook을 적재적소에 잘 사용하는 것이 어려웠습니다.
 </div>
+<hr>
