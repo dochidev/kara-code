@@ -34,6 +34,7 @@
 
 2023.3.10 ~ 2023.3.16
 </div>
+<div align=center>
 <div class='cover'>
 	<div>
 <h2> ✏ 작업 영역 및 구현 기능 설명 ✏ </h2>
@@ -58,13 +59,8 @@
   🔻 DetailPage 구현 시 오류 </br>
   </div>
 </div>
+</div>
 
-.cover {
-    align=center
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 <div align=center>
 <h2> 어려웠던 점 :joy_cat: </h2>
 
@@ -76,3 +72,9 @@
 또 api의 불필요한 호출을 최소화하는 것이나 내가 원하는 검색어만 가져오게 하는 것이 생각보다 까다로웠습니다. useState 나 useEffect 같은 Hook을 적재적소에 잘 사용하는 것이 어려웠습니다. </br></br>
 </div>
 
+.cover {
+    align=center
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
