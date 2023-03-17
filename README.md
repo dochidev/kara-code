@@ -10,17 +10,17 @@
 YouTube 
 </div>
 <div align=center>
-	##:pushpin: 프로젝트 소개 :pushpin:
+	<h2>:pushpin: 프로젝트 소개 :pushpin:</h2>
 
 Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 YouTube 앱을 만든다. 
 </div>
 <div align=center>
-## 팀원 소개
+<h2> 팀원 소개 </h2>
 <hr>
 [김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
 </div>
 <div align=center>
-📚 ## 기술 스택 📚 
+<h2> 📚 ## 기술 스택 📚 </h2>
 
 
 * <img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
@@ -32,12 +32,12 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 	
 </div>
 <div align=center>
-### 과제 진행 기간 
+<h2> 과제 진행 기간 </h2>
 
 2023.3.10 ~ 2023.3.16
 </div>
 <div align=center>
-### :closed_book: 작업 영역 및 구현 기능 설명 :closed_book:
+<h2> :closed_book: 작업 영역 및 구현 기능 설명 :closed_book: </h2>
 
 * 김응열
   * 홈페이지 header와 sidebar, sidebar modal 구현
@@ -55,7 +55,7 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 
 
 <div align=center>
-### 어려웠던 점
+<h2> 어려웠던 점 </h2>
 
 * styled-components를 활용할 때 props 이용하여 modal을 열고 닫는 것과 반응형 구현하는 부분이 힘들었습니다.
 
