@@ -34,7 +34,8 @@
 
 2023.3.10 ~ 2023.3.16
 </div>
-<div align=center>
+<div class='cover'>
+	<div>
 <h2> ✏ 작업 영역 및 구현 기능 설명 ✏ </h2>
 
 ◾ 김응열 </br> </br>
@@ -55,8 +56,12 @@
 	
 ◾ 이현정 </br> </br>
   🔻 DetailPage 구현 시 오류 </br>
+  </div>
 </div>
-
+.cover {
+    display: flex;
+    justify-content: space-between;
+}
 
 <div align=center>
 <h2> 어려웠던 점 :joy_cat: </h2>
