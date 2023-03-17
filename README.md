@@ -17,7 +17,8 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 [김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
 
 <div align=center>
-## 📚 기술 스택 📚
+---
+	📚 기술 스택 
 </div>
 <div align="center">
 
