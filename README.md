@@ -47,7 +47,7 @@
   🔻 Mainpage, Channelpage, MainComponent 구현 </br>
   🔻 홈페이지 비디오 이미지, 비디오 타이틀, 채널 이름, 날짜 등의 데이터를 렌더링 </br>
   🔻 ChannelPage는 메인페이지의 채널이름을 누르면 이동하도록 구현하였고 </br>
-     useEffect로 해당 channelId를 활용하여(useParams로 가져옴) axios로 api 호출을 하여 채널 관련 비디오가 10개 받아지도록 구현 </br>
+     useEffect로 해당 channelId를 활용하여(useParams로 가져옴) axios로 api 호출을 하여  </br> 채널 관련 비디오가 10개 받아지도록 구현 </br>
    </p>
 ◾ 최우성 </br> </br>
   🔻 SearchPage, SearchMain 구현 </br>
