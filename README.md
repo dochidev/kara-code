@@ -38,7 +38,7 @@
 <h2> ✏ 작업 영역 및 구현 기능 설명 ✏ </h2>
 
 ◾ 김응열 </br> </br>
- <p class = "align-center">
+ <p class = "align-center", text-justify: auto>
 🔻 홈페이지 header와 sidebar, sidebar modal 구현 </br>
   🔻 홈페이지 비디오 카드 스타일링 </br> </p>
 
