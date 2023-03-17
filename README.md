@@ -38,8 +38,9 @@
 <h2> ✏ 작업 영역 및 구현 기능 설명 ✏ </h2>
 
 ◾ 김응열 </br> </br>
-  🔻 홈페이지 header와 sidebar, sidebar modal 구현 </br>
-  🔻 홈페이지 비디오 카드 스타일링 </br>
+ <p class = "align-center">
+🔻 홈페이지 header와 sidebar, sidebar modal 구현 </br>
+  🔻 홈페이지 비디오 카드 스타일링 </br> </p>
 
 ◾ 장건우 </br> </br>
   🔻 Mainpage, Channelpage, MainComponent 구현 </br>
