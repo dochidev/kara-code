@@ -38,20 +38,20 @@
 <h2> ✏ 작업 영역 및 구현 기능 설명 ✏ </h2>
 
 ◾ 김응열 </br>
-  🔻 홈페이지 header와 sidebar, sidebar modal 구현
-  🔻 홈페이지 비디오 카드 스타일링
+  🔻 홈페이지 header와 sidebar, sidebar modal 구현 </br>
+  🔻 홈페이지 비디오 카드 스타일링 </br>
 
 ◾ 장건우 </br>
-  🔻 Mainpage, Channelpage, MainComponent 구현
-  🔻 홈페이지 비디오 이미지, 비디오 타이틀, 채널 이름, 날짜 등의 데이터를 렌더링
-  🔻 ChannelPage는 메인페이지의 채널이름을 누르면 이동하도록 구현하였고 useEffect로 해당 channelId를 활용하여(useParams로 가져옴) axios로 api 호출을 하여 채널 관련 비디오가 10개 받아지도록 구현
+  🔻 Mainpage, Channelpage, MainComponent 구현 </br>
+  🔻 홈페이지 비디오 이미지, 비디오 타이틀, 채널 이름, 날짜 등의 데이터를 렌더링 </br>
+  🔻 ChannelPage는 메인페이지의 채널이름을 누르면 이동하도록 구현하였고 useEffect로 해당 channelId를 활용하여(useParams로 가져옴) axios로 api 호출을 하여 채널 관련 비디오가 10개 받아지도록 구현 </br>
 
 ◾ 최우성 </br>
-  🔻 SearchPage, SearchMain 구현
-  🔻 useState와 useEffect를 사용하여 검색어를 저장. 검색어는 useParams를 사용하여 URL에서 가져오고, 그 결과를 SearchMain 컴포넌트에 전달하여 화면에 출력하는 것을 구현
+  🔻 SearchPage, SearchMain 구현 </br>
+  🔻 useState와 useEffect를 사용하여 검색어를 저장. 검색어는 useParams를 사용하여 URL에서 가져오고, 그 결과를 SearchMain 컴포넌트에 전달하여 화면에 출력하는 것을 구현 </br>
 	
 ◾ 이현정 </br>
-  🔻 DetailPage 구현 시 오류 
+  🔻 DetailPage 구현 시 오류 </br>
 </div>
 
 
