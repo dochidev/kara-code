@@ -1,11 +1,11 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=youtube%20clone&fontSize=90">
+	![image](https://user-images.githubusercontent.com/70482073/225856715-3e00e5e7-12c4-41ca-b372-051f06c61b92.png)
 </div>
 
 ## 프로젝트 제목
 
-Youtube
-YouTube ![image](https://user-images.githubusercontent.com/70482073/225856715-3e00e5e7-12c4-41ca-b372-051f06c61b92.png)
+YouTube 
 
 ## :pushpin: 프로젝트 소개 :pushpin:
 
