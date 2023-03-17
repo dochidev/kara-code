@@ -15,7 +15,7 @@
 </div>
 <div align=center>
 <h2> 👤 팀원 소개 👤 </h2>
-	[김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) |
+	[김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | <br/>
         [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
 </div>
 <div align=center>
