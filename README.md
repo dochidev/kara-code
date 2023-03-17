@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=youtube%20clone&fontSize=90">
 </div>
 <div align=center>
-<img src = "https://user-images.githubusercontent.com/70482073/225860584-75f15093-92c3-491d-993d-f62e3e2bdf67.png"/>
+<img src = "https://cdn-icons-png.flaticon.com/512/3128/3128307.png"/>
 </div>
 <div align=center>
 ## 프로젝트 제목
