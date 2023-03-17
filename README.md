@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=youtube%20clone&fontSize=90">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=light&height=280&section=header&text=youtube%20clone&fontSize=90">
 </div>
 <div align=center>
 <img src = "https://cdn-icons-png.flaticon.com/512/3128/3128307.png" width="180"/>
