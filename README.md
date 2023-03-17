@@ -5,7 +5,7 @@
 <img src = "https://cdn-icons-png.flaticon.com/512/3128/3128307.png" width="180"/>
 </div>
 <div align=center>
-	<h2>프로젝트 제목</h2>
+	<h2> 🏆 프로젝트 제목 🏆</h2>
 	<b>YouTube</b>
 	<br/>	<br/>
 </div>
@@ -30,7 +30,7 @@
 	
 </div>
 <div align=center>
-<h2> 과제 진행 기간 </h2>
+<h2> ⏰ 과제 진행 기간 ⏰ </h2>
 
 2023.3.10 ~ 2023.3.16
 </div>
