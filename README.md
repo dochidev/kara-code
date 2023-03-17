@@ -1,9 +1,9 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=youtube%20clone&fontSize=90">
-	youtube![image](https://user-images.githubusercontent.com/70482073/225856715-3e00e5e7-12c4-41ca-b372-051f06c61b92.png)
+	<img src = "https://user-images.githubusercontent.com/70482073/225856715-3e00e5e7-12c4-41ca-b372-051f06c61b92.png"/>
 </div>
-<i class="fa fa-youtube" aria-hidden="true"></i>
 
+<div align=center>
 ## 프로젝트 제목
 
 YouTube 
@@ -55,3 +55,4 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 
 * api를 호출하면서 여러가지 오류들이 났었고 이를 해결하는 것이 어려웠습니다.
 또 api의 불필요한 호출을 최소화하는 것이나 내가 원하는 검색어만 가져오게 하는 것이 생각보다 까다로웠습니다. useState 나 useEffect 같은 Hook을 적재적소에 잘 사용하는 것이 어려웠습니다.
+</div>
