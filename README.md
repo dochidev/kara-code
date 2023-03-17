@@ -16,19 +16,20 @@ Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 You
 </div>
 <div align=center>
 ## 팀원 소개
-
+<hr>
 [김응열](https://github.com/Valentin1495) | [장건우](https://github.com/jangco97) | [이현정](https://github.com/dochi-dev-tech) | [최우성](https://github.com/No-answerday) 
 </div>
 <div align=center>
 📚 ## 기술 스택 📚 
 
 
-	* <img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
-	* <img src="https://img.shields.io/badge/axios-purple?style=flat-square"/>
-	* <img src="https://img.shields.io/badge/moment-black?style=flat-square"/>
-	* <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-	* <img src="https://img.shields.io/badge/React%20Router%20Dom-white?style=flat-square&logo=ReactRouter&logoColor=black%22/%3E"/>
-	* <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+* <img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
+* <img src="https://img.shields.io/badge/axios-purple?style=flat-square"/>
+* <img src="https://img.shields.io/badge/moment-black?style=flat-square"/>
+* <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+* <img src="https://img.shields.io/badge/React%20Router%20Dom-white?style=flat-square&logo=ReactRouter&logoColor=black%22/%3E"/>
+* <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+	
 </div>
 <div align=center>
 ### 과제 진행 기간 
