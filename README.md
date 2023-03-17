@@ -58,11 +58,12 @@
   🔻 DetailPage 구현 시 오류 </br>
   </div>
 </div>
+
 .cover {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
-
 <div align=center>
 <h2> 어려웠던 점 :joy_cat: </h2>
 
