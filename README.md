@@ -5,7 +5,7 @@
 <img src = "https://cdn-icons-png.flaticon.com/512/3128/3128307.png" width="180"/>
 </div>
 <div align=center>
-<h2>프로젝트 제목</
+	<h2>프로젝트 제목</h2>
 
 YouTube 
 </div>
