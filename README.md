@@ -21,12 +21,12 @@
 <div align=center>
 <h2> 📚 기술 스택 📚 </h2>
 
-* <img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
-* <img src="https://img.shields.io/badge/axios-purple?style=flat-square"/>
-* <img src="https://img.shields.io/badge/moment-black?style=flat-square"/>
-* <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-* <img src="https://img.shields.io/badge/React%20Router%20Dom-white?style=flat-square&logo=ReactRouter&logoColor=black%22/%3E"/>
-* <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/antd-E34F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/axios-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/moment-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/React%20Router%20Dom-white?style=flat-square&logo=ReactRouter&logoColor=black%22/%3E"/>
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 	
 </div>
 <div align=center>
@@ -35,7 +35,7 @@
 2023.3.10 ~ 2023.3.16
 </div>
 <div align=center>
-<h2> :closed_book: 작업 영역 및 구현 기능 설명 :closed_book: </h2>
+<h2> 작업 영역 및 구현 기능 설명 :closed_book: </h2>
 
 * 김응열
   * 홈페이지 header와 sidebar, sidebar modal 구현
