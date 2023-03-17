@@ -10,7 +10,7 @@
 YouTube 
 </div>
 <div align=center>
-##:pushpin: 프로젝트 소개 :pushpin:
+	##:pushpin: 프로젝트 소개 :pushpin:
 
 Google에서 제공하는 YouTube API를 이용하여 데이터를 받아와 YouTube 앱을 만든다. 
 </div>
