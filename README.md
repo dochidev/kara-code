@@ -6,7 +6,7 @@
 </div>
 <div align=center>
 	<h2>프로젝트 제목</h2>
-	YouTube 
+	<b>YouTube</b>
 	<br/>	<br/> 	<br/>
 </div>
 <div align=center>
