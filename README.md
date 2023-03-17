@@ -51,7 +51,7 @@
 
 ◾ 최우성 </br> </br>
   🔻 SearchPage, SearchMain 구현 </br>
-  🔻 useState와 useEffect를 사용하여 검색어를 저장. 검색어는 useParams를 사용하여 URL에서 가져오고,</br> 그 결과를 SearchMain 컴포넌트에 전달하여 </br> 화면에 출력하는 것을 구현 </br>
+  🔻 useState와 useEffect를 사용하여 검색어를 저장. 검색어는 useParams를 사용하여 URL에서 가져오고,</br> 그 결과를 SearchMain 컴포넌트에 전달하여 화면에 출력하는 것을 구현 </br>
 	
 ◾ 이현정 </br> </br>
   🔻 DetailPage 구현 시 오류 </br>
